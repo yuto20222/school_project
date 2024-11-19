@@ -1,0 +1,3 @@
+[submodule "school_project"]
+	path = school_project
+	url = https://github.com/yuto20222/school_project.git
